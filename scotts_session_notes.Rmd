@@ -1,0 +1,14 @@
+---
+title: "Group Session Notes"
+author: "Scott Jackson"
+date: "11/12/2019"
+output: html_document
+---
+
+# Agenda
+
+- Reassurances
+- Pace/format?
+- Burning questions
+- Walkthrough tutorial and solutions
+- Discuss next week
